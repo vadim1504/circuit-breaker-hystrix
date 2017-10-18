@@ -15,6 +15,7 @@
         <module>request-cache</module>
         <module>bookstore</module>
         <module>reading</module>
+        <module>feign-reading</module>
     </modules>
 
     <properties>
